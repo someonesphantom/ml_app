@@ -176,7 +176,6 @@ numpy==1.20.3
 numpydoc==0.9.1
 oauth2client==4.1.3
 oauthlib==3.1.0
-object-detection @ file:///Users/venkat/Desktop/learn/ML/models/research
 olefile==0.46
 opencv-python==4.5.5.62
 opencv-python-headless==4.5.5.62
